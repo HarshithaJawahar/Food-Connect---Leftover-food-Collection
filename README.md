@@ -1,2 +1,3 @@
-# Food-Connect---Leftover-food-Collection
-This is an app that helps in the distribution of leftover food collection from restaurants to people in need.
+# Food-Connect
+Food Connect is our app that collects leftover food from restaurants to people in need.
+This helps in the minimal wastage of food and helps feed many hungry people.
